@@ -1,0 +1,8 @@
+homepage: "https://consentpro.com"
+documentation: "https://docs.consentpro.com/v2/google-tag-manager-setup"
+versions:
+  - sha: TODO
+    changeNotes: |
+      Initial Community Template Gallery release.
+      Consent Pro v2 integration with Google Consent Mode.
+      Region-specific default consent settings and fs-consent cookie sync.
